@@ -4,10 +4,13 @@ Official implementation of NeurIPS 2022 paper "TokenMixup: Efficient Attention-g
 
 Code will be released soon after the conference.
 
-⠀            |  ⠀
+<!-- ⠀            |  ⠀
 :-------------------------:|:-------------------------:
-![htm_gif](https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/HTM.gif)  |  ![vtm_gif](https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/VTM.gif) 
-
+![htm_gif](https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/HTM.gif)  |  ![vtm_gif](https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/VTM.gif)  -->
+<p float="middle">
+  <img src="https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/HTM.gif" width="49%" />
+  <img src="https://raw.githubusercontent.com/mlvlab/TokenMixup/main/assets/VTM.gif" width="49%" /> 
+</p>
 
 ## Citation
 ```
